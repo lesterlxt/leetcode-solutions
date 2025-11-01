@@ -3,14 +3,13 @@ class Solution:
         if len(ransomNote) > len(magazine):
             return False
 
-        cnt = [0] * 26
+        cnt = {}
         for ch in magazine:
-            cnt[ord(ch) - 97] += 1
-        
+            cnt[ch] = cnt.get(ch, 0) + 1
+
         for ch in ransomNote:
-            i = ord(ch) - 97
-            cnt[i] -= 1
-            if cnt[i] < 0:
+            if cnt.get(ch, 0) == 0:
                 return False
-        
+            cnt[ch] -= 1
+
         return True
