@@ -12,7 +12,7 @@ class Solution:
     def connect(self, root: 'Node') -> 'Node':
         if not root:
             return None
-    
+        
         q = deque()
         q.append(root)
 
@@ -24,13 +24,14 @@ class Solution:
                 node = q.popleft()
                 if prev:
                     prev.next = node
-                prev = node
 
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            
+                
+                prev = node
+
             prev.next = None
-        
+
         return root
