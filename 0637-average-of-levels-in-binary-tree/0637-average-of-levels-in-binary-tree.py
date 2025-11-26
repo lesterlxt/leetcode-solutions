@@ -22,11 +22,10 @@ class Solution:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-                if i <= level_size -1:
-                    level_sum += node.val
-                if i == level_size - 1:
-                    level_avg = level_sum / level_size
-                    res.append(level_avg)
+                level_sum += node.val
+
+            level_avg = level_sum / level_size
+            res.append(level_avg)
         
         return res
 
