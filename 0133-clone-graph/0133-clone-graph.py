@@ -23,7 +23,6 @@ class Solution:
 
             for nei in curr.neighbors:
                 copy.neighbors.append(dfs(nei))
-            
             return copy
         
         return dfs(node)
