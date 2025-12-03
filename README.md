@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0399-evaluate-division](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Counting
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0228-summary-ranges) |
+| [0399-evaluate-division](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Union Find
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0399-evaluate-division) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0399-evaluate-division](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -248,4 +253,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
