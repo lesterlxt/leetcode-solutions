@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0290-word-pattern) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0219-contains-duplicate-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0399-evaluate-division](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0399-evaluate-division) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0909-snakes-and-ladders](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 ## Graph
 |  |
@@ -292,4 +295,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0212-word-search-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
