@@ -38,6 +38,9 @@ class Solution:
                 dfs(i, j+1, next_node)
             
             board[i][j] = ch
+            if not next_node.children:
+                node.children.pop(ch)
+
         
         for i in range(m):
             for j in range(n):
