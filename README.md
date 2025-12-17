@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0127-word-ladder](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0127-word-ladder) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0052-n-queens-ii) |
