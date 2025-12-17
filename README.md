@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0057-insert-interval) |
+| [0079-word-search](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0101-symmetric-tree) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -311,5 +315,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
