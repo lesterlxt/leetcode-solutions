@@ -16,7 +16,7 @@ var createCounter = function(init) {
         reset: function() {
             cur = init;
             return cur;
-        }
+        },
     }
 };
 
