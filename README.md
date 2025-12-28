@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0399-evaluate-division](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0427-construct-quad-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0909-snakes-and-ladders](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 ## Union Find
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0148-sort-list) |
+| [0427-construct-quad-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0427-construct-quad-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0909-snakes-and-ladders) |
 ## Graph
 |  |
