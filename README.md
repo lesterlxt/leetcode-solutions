@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0173-binary-search-tree-iterator) |
