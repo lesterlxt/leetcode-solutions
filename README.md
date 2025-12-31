@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0427-construct-quad-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Matrix
 |  |
