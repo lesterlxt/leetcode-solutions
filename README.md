@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0198-house-robber) |
 | [0918-maximum-sum-circular-subarray](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search Tree
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0212-word-search-ii) |
 ## Backtracking
@@ -400,4 +405,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
