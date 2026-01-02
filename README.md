@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0228-summary-ranges) |
+| [0322-coin-change](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0427-construct-quad-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0427-construct-quad-tree) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0322-coin-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search Tree
 |  |
