@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0139-word-break) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0063-unique-paths-ii](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0139-word-break) |
