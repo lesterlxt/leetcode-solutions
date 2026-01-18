@@ -6,4 +6,3 @@ class Solution:
                 nums[write] = nums[read]
                 write += 1
         return write
-
