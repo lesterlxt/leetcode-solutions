@@ -1,19 +1,17 @@
 class Solution:
     def reverseWords(self, s: str) -> str:
         words = []
-        i = len(s) - 1
-        while i >= 0:
-            while i >= 0 and s[i] == " ":
-                i -= 1
-            if i < 0:
-                break
-            
-            j = i
-            while j >= 0 and s[j] != " ":
-                j -= 1
+        l, r = 0, len(s) - 1
 
-            words.append(s[j + 1: i + 1])
-            i = j
+        while r >= 0:
+            if s[r] != " ":
+                l = r - 1
+                while l >= 0 and s[l] != " ":
+                    l -= 1
+                words.append(s[l + 1: r + 1])
+                r = l
+            else:
+                r -= 1
         
         return " ".join(words)
         
