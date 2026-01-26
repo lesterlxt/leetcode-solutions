@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0433-minimum-genetic-mutation) |
 ## Counting
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0202-happy-number) |
+| [0392-is-subsequence](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0918-maximum-sum-circular-subarray](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search Tree
 |  |
