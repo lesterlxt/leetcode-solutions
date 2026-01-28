@@ -1,14 +1,18 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-        def sqsum(x: int) -> int:
+        def next_num(x):
             s = 0
-            while x:
-                x, d = divmod(x, 10)
+            while x > 0:
+                d = x % 10
                 s += d * d
+                x = x // 10
             return s
-    
+        
         seen = set()
         while n != 1 and n not in seen:
             seen.add(n)
-            n = sqsum(n)
+            n = next_num(n)
+        
         return n == 1
+        
+
