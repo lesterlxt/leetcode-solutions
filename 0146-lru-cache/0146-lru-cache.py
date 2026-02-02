@@ -1,61 +1,57 @@
 class Node:
-    def __init__(self, key: int, value: int):
+    def __init__(self, key=0, val=0):
         self.key = key
-        self.val = value
-        self.prev: Optional["Node"] = None
-        self.next: Optional["Node"] = None
+        self.val = val
+        self.prev = None
+        self.next = None
 
 class LRUCache:
 
     def __init__(self, capacity: int):
         self.cap = capacity
-        self.cache = {}
+        self.map = {}
 
-        # dummy head tail
-        self.head = Node(0, 0)
-        self.tail = Node(0, 0)
+        self.head = Node()
+        self.tail = Node()
         self.head.next = self.tail
         self.tail.prev = self.head
 
-    def _add(self, node):
-        node.next = self.head.next
+    def _remove(self, node: Node):
+        p, n = node.prev, node.next
+        p.next = n
+        n.prev = p
+    
+    def _add_to_front(self, node: Node):
         node.prev = self.head
+        node.next = self.head.next
         self.head.next.prev = node
         self.head.next = node
 
-    def _remove(self, node):
-        prv = node.prev
-        nxt = node.next
-        prv.next = nxt
-        nxt.prev = prv
-    
-    def _move_to_head(self, node):
-        self._remove(node)
-        self._add(node)
-
     def get(self, key: int) -> int:
-        if key not in self.cache:
+        if key not in self.map:
             return -1
-        node = self.cache[key]
-        self._move_to_head(node)
+        
+        node = self.map[key]
+        self._remove(node)
+        self._add_to_front(node)
         return node.val
 
     def put(self, key: int, value: int) -> None:
-        if key in self.cache:
-            node = self.cache[key]
+        if key in self.map:
+            node = self.map[key]
             node.val = value
-            self._move_to_head(node)
-        else:
-            new = Node(key, value)
-            self.cache[key] = new
-            self._add(new)
+            self._remove(node)
+            self._add_to_front(node)
+            return
         
-            if len(self.cache) > self.cap:
-                lru = self.tail.prev
-                self._remove(lru)
-                del self.cache[lru.key]
+        node = Node(key, value)
+        self.map[key] = node
+        self._add_to_front(node)
 
-
+        if len(self.map) > self.cap:
+            lru = self.tail.prev
+            self._remove(lru)
+            del self.map[lru.key]
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
