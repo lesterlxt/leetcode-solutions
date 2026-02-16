@@ -9,18 +9,17 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        self.prev = None
+        cur = root
+        while cur:
+            if cur.left:
+                pre = cur.left
+                while pre.right:
+                    pre = pre.right
 
-        def dfs(node):
-            if not node:
-                return None
-            
-            dfs(node.right)
-            dfs(node.left)
+                pre.right = cur.right
+                cur.right = cur.left
+                cur.left = None
 
-            node.right = self.prev
-            node.left = None
-
-            self.prev = node
+            cur = cur.right
         
-        dfs(root)
+        
