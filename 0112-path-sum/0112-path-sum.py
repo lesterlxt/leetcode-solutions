@@ -13,8 +13,5 @@ class Solution:
             return root.val == targetSum
         
         newTarget = targetSum - root.val
-        
-        return(self.hasPathSum(root.left, newTarget)
-        or self.hasPathSum(root.right, newTarget))
-        
-        
+        return (self.hasPathSum(root.left, newTarget) or
+                self.hasPathSum(root.right, newTarget))
