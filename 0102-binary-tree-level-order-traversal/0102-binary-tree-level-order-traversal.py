@@ -9,22 +9,21 @@ class Solution:
         if not root:
             return []
         
-        q = deque([root])
-        res = []
-
+        ans = []
+        q = deque()
+        q.append(root)
         while q:
             level_size = len(q)
-            level_nodes = []
-            for i in range(level_size):
+            level_arr = []
+            for _ in range(level_size):
                 node = q.popleft()
-                level_nodes.append(node.val)
+                level_arr.append(node.val)
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-            res.append(level_nodes)
+            ans.append(level_arr)
         
-        return res
-            
+        return ans
 
 
