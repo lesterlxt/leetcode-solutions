@@ -9,25 +9,24 @@ class Solution:
         if not root:
             return []
         
-        res = []
-        q = deque([root])
+        ans = []
+        q = deque()
+        q.append(root)
 
         while q:
             level_size = len(q)
             level_sum = 0
-            level_avg = 0
-            for i in range(level_size):
+
+            for _ in range(level_size):
                 node = q.popleft()
+                level_sum += node.val
                 if node.left:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-                level_sum += node.val
-
-            level_avg = level_sum / level_size
-            res.append(level_avg)
+            
+            ans.append(level_sum / level_size)
         
-        return res
+        return ans
 
-
-
+        
