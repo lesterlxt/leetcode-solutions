@@ -9,15 +9,16 @@ class Solution:
         if not root:
             return []
         
-        q = deque([root])
-        res = []
-        flag = 1
-        
+        q = deque()
+        q.append(root)
+        left_to_right = True
+        ans = []
+
         while q:
             level_size = len(q)
             level_nodes = []
 
-            for i in range(level_size):
+            for _ in range(level_size):
                 node = q.popleft()
                 level_nodes.append(node.val)
 
@@ -25,16 +26,12 @@ class Solution:
                     q.append(node.left)
                 if node.right:
                     q.append(node.right)
-
-            if flag == 1:
-                res.append(level_nodes)
-            else:
-                res.append(level_nodes[::-1])
-            flag *= -1
             
-        return res
+            if not left_to_right:
+                level_nodes.reverse()
             
-            
-
-            
-
+            ans.append(level_nodes)
+            left_to_right = not left_to_right
+        
+        return ans
+                        
