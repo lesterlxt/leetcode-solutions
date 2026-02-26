@@ -506,4 +506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/userMaoGuaXi/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/lesterlxt/leetcode-solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
